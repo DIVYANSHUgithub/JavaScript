@@ -64,7 +64,7 @@ let number=89
 
 
 
-// return type of all non-primitive types are "object"
+// ________________return type of all non-primitive types are "object"
 
     // return type of "function" is function
     const myFunction= function(){
